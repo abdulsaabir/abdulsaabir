@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eng-Abdulsaabir-Haaji
-- 👀 I’m A passionate fulll developer
+- 👀 I’m A passionate Software engineering
 - 🌱 I’m currently learning CS50's Introduction to Computer Science - edX
 - 📫 How to reach me saabirhaaji10@gmail.com
 
