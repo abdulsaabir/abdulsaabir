@@ -14,12 +14,12 @@
 - ⚡ Fun fact **I Code 8hr Every single Day**
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Abdulsaabir-Haaji&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsaabir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saabirhaaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saabirhaaji" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulsaabir-haaji-348b92244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulsaabir-haaji-348b92244/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulsaabir-haaji-348b92244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulsaabir-348b92244/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +27,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Eng-Abdulsaabir-Haaji&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Abdulsaabir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Eng-Abdulsaabir-Haaji&theme=dark&hide_border=false)<br/>
 
 
