@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Saabirhaaji10@gmail.com**
 
-- ⚡ Fun fact **I Code 8hr Every single Day**
+- ⚡ Fun fact **I Code 8 hours r Every Day**
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsaabir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
