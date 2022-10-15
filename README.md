@@ -31,5 +31,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdulsaabiri&theme=dark&hide_border=false)<br/>
 
 
+**My Streak Stats**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdulsaabir&theme=tokyonight)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsaabir&theme=tokyonight" alt="abdulsaabir" /></p>
