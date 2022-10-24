@@ -17,9 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaabir&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdulsaabir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saabirhaaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saabirhaaji" height="30" width="40" /></a>
