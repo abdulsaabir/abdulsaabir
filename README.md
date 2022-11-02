@@ -5,7 +5,7 @@
 
 - 🔭 I’m working on **[50-vanilla JavaScript Projects](https://github.com/Eng-Abdulsaabir-Haaji/100-Vanilla-JavaScript-projects)**
 
-- 🌱 I’m currently learning  **React And Nodejs**
+- 🌱 I’m currently learning  **React And Redux**
 
 - 💬 Ask me about **Front End development.**
 
