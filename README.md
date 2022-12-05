@@ -5,13 +5,13 @@
 
 - 🔭 I’m working on **[50-vanilla JavaScript Projects](https://github.com/Eng-Abdulsaabir-Haaji/100-Vanilla-JavaScript-projects)**
 
-- 🌱 I’m currently learning  **React And Nodejs **
+- 🌱 I’m currently learning  **React And Nodejs**
 
 - 💬 Ask me about **Front End development.**
 
 - 📫 How to reach me **Saabirhaaji10@gmail.com**
 
-- ⚡ Fun fact **I Code 8 hours r Every Day**
+- ⚡ Fun fact **I Code 8 hours Every Day**
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaabir&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
