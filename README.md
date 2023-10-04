@@ -1,20 +1,12 @@
-<h1 align="center">Hi 👋,I'm Abdulsaabir Haaji</h1>
-<h3 align="center">A passionate Software Engineering</h3>
+<h1 align="center"></h1>
+<h3 align="center">A Security Analyst and Penetration tester</h3>
 
-
-
-- 🔭 I’m working on **Web devlopers Ultimate RoadMap**
-
-- 🌱 I’m currently learning  **BackEnd Delelopment**
-
-- 💬 Ask me about **Front End development.**
 
 - 📫 How to reach me **Saabirhaaji10@gmail.com**
 
-- ⚡ Fun fact **I Code 8 hours Every Day**
+- ⚡ Fun fact **Never underestimate the determination of a kid who is time-rich and cash-poor**
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaabir&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdulsaabir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -23,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saabirhaaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saabirhaaji" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdulsaabir-haaji-348b92244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulsaabir-348b92244/" height="30" width="40" /></a>
 </p>
 
